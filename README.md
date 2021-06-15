@@ -2,6 +2,4 @@
 
 Gewoon wat omzin
 
-now edit on update-readme branch
-
-Pdated locally
+updates made on main on Github before rebase 
